@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moniebadi
-- 👀 I’m interested in learning, programming, movies, music , food
+- 👀 I’m interested in learning, programming, movies, music
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me : moni.ebadi@gmail.com
